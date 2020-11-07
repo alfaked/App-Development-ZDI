@@ -1,0 +1,15 @@
+void main() {
+  int alter = 12;
+  int geburtsjahr = 2008;
+  double groesse = 1.5;
+  double geburtstag  = 11.06;
+  String name = "Arda";
+  String geburtsort = "Köln";
+  
+  print(alter);
+  print(geburtsjahr);
+  print(groesse);
+  print(geburtstag);
+  print(name);
+  print(geburtsort);
+  }
