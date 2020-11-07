@@ -1,0 +1,10 @@
+void main() {
+    int zahlengrenze = 1;
+    if(zahlengrenze > 10){
+      print("Zu gross"); 
+    }else{
+      print("Zu klein");
+    }
+  String zahlencheck = zahlengrenze > 10 ? "Zu gross": "Zu klein";
+  print(zahlencheck);
+  }
